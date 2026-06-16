@@ -1,0 +1,175 @@
+{
+  "target": "player",
+  "mode": "idle",
+  "prompt": "Boss BagBag idle breathing 4-frame pixel art sheet, 2x2 raw grid, dark blue business suit, blue tie, pocket square, no crown, no effects, magenta background.",
+  "role": "",
+  "input": "C:\\Users\\User\\.codex\\generated_images\\019ece8c-c642-7d32-ac49-20b5e0a78d68\\ig_060e5317e3ee9154016a30da8144d48191a47246445ed3baa5.png",
+  "threshold": 100,
+  "edge_threshold": 150,
+  "duration": 160,
+  "rows": 2,
+  "cols": 2,
+  "cell_size": 128,
+  "fit_scale": 0.92,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "center",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 4,
+  "min_component_area": 1,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "boss_bagbag_idle-1",
+    "boss_bagbag_idle-2",
+    "boss_bagbag_idle-3",
+    "boss_bagbag_idle-4"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 133331,
+      "selected_component_bbox": [
+        119,
+        93,
+        545,
+        555
+      ],
+      "crop_bbox": [
+        115,
+        89,
+        549,
+        559
+      ],
+      "edge_touch": false,
+      "output_size": [
+        100,
+        108
+      ],
+      "paste_position": [
+        14,
+        10
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        627,
+        0,
+        1254,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 148103,
+      "selected_component_bbox": [
+        57,
+        68,
+        502,
+        555
+      ],
+      "crop_bbox": [
+        53,
+        64,
+        506,
+        559
+      ],
+      "edge_touch": false,
+      "output_size": [
+        104,
+        114
+      ],
+      "paste_position": [
+        12,
+        7
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        627,
+        627,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 160143,
+      "selected_component_bbox": [
+        97,
+        24,
+        565,
+        525
+      ],
+      "crop_bbox": [
+        93,
+        20,
+        569,
+        529
+      ],
+      "edge_touch": false,
+      "output_size": [
+        110,
+        117
+      ],
+      "paste_position": [
+        9,
+        5
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        627,
+        627,
+        1254,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 130036,
+      "selected_component_bbox": [
+        66,
+        79,
+        493,
+        526
+      ],
+      "crop_bbox": [
+        62,
+        75,
+        497,
+        530
+      ],
+      "edge_touch": false,
+      "output_size": [
+        100,
+        105
+      ],
+      "paste_position": [
+        14,
+        11
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}
